@@ -1,0 +1,17 @@
+a special member function that is executed automatically whenever an object is created.
+
+name of the contructor and class is same,
+dont have return type,
+they can have default arguments like funtions,
+should be declaraed in the public section
+
+types:
+1. default constructor : doesnt take any parameters
+2. parametered : takes arguments
+3. copy : copy of the object
+4. default copy
+
+
+DESTRUCTER
+syntax:
+~ constructor
